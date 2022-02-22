@@ -1,3 +1,5 @@
+'use strict';
+
 const img = document.querySelectorAll('img')
 const body = document.querySelector('body')
 
